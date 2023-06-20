@@ -1,9 +1,8 @@
 # **SASAE**
 
-> **Server is down.**
-Double-tap the **logo** on the login screen to enable **demo mode**.
+<mark>&nbsp;**Server is down.**
+Double-tap the **logo** on the login screen to enable **demo mode**.&nbsp;<mark>
 
-<br/>
 
 ## **Introducing our Centralized Social Impact Platform: Empowering Change Together!**
 
