@@ -1,5 +1,10 @@
 # **SASAE**
 
+> **Server is down.**
+Double-tap the **logo** on the login screen to enable **demo mode**.
+
+<br/>
+
 ## **Introducing our Centralized Social Impact Platform: Empowering Change Together!**
 
 Welcome to the **Android app**, a centralized platform that brings together *social enthusiasts, NGOs*, and everyday people who are passionate about making a difference in society. Our app is designed to foster collaboration, enable seamless updates, and empower individuals to actively contribute towards positive change.
