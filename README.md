@@ -3,6 +3,8 @@
 <mark>&nbsp;**Server is down.**
 Double-tap the **logo** on the login screen to enable **demo mode**.&nbsp;<mark>
 
+[Reportt](./reports/sasae-report-2022.pdf)
+
 
 ## **Introducing our Centralized Social Impact Platform: Empowering Change Together!**
 
